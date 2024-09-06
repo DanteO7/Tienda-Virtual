@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dorsettimartinez\\source\\repos\\TiendaVirtual\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6203F03-8F69-4B25-9574-0D70201E3261}|TiendaVirtual\\TiendaVirtual.csproj|c:\\users\\dorsettimartinez\\source\\repos\\tiendavirtual\\tiendavirtual\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6203F03-8F69-4B25-9574-0D70201E3261}|TiendaVirtual\\TiendaVirtual.csproj|solutionrelative:tiendavirtual\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6203F03-8F69-4B25-9574-0D70201E3261}|TiendaVirtual\\TiendaVirtual.csproj|c:\\users\\dorsettimartinez\\source\\repos\\tiendavirtual\\tiendavirtual\\modelo\\tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6203F03-8F69-4B25-9574-0D70201E3261}|TiendaVirtual\\TiendaVirtual.csproj|solutionrelative:tiendavirtual\\modelo\\tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6203F03-8F69-4B25-9574-0D70201E3261}|TiendaVirtual\\TiendaVirtual.csproj|c:\\users\\dorsettimartinez\\source\\repos\\tiendavirtual\\tiendavirtual\\modelo\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6203F03-8F69-4B25-9574-0D70201E3261}|TiendaVirtual\\TiendaVirtual.csproj|solutionrelative:tiendavirtual\\modelo\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6203F03-8F69-4B25-9574-0D70201E3261}|TiendaVirtual\\TiendaVirtual.csproj|c:\\users\\dorsettimartinez\\source\\repos\\tiendavirtual\\tiendavirtual\\modelo\\ropa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6203F03-8F69-4B25-9574-0D70201E3261}|TiendaVirtual\\TiendaVirtual.csproj|solutionrelative:tiendavirtual\\modelo\\ropa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6203F03-8F69-4B25-9574-0D70201E3261}|TiendaVirtual\\TiendaVirtual.csproj|c:\\users\\dorsettimartinez\\source\\repos\\tiendavirtual\\tiendavirtual\\modelo\\alimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6203F03-8F69-4B25-9574-0D70201E3261}|TiendaVirtual\\TiendaVirtual.csproj|solutionrelative:tiendavirtual\\modelo\\alimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6203F03-8F69-4B25-9574-0D70201E3261}|TiendaVirtual\\TiendaVirtual.csproj|c:\\users\\dorsettimartinez\\source\\repos\\tiendavirtual\\tiendavirtual\\modelo\\dispositivoelectronico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6203F03-8F69-4B25-9574-0D70201E3261}|TiendaVirtual\\TiendaVirtual.csproj|solutionrelative:tiendavirtual\\modelo\\dispositivoelectronico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DispositivoElectronico.cs",
+              "DocumentMoniker": "C:\\Users\\dorsettimartinez\\source\\repos\\TiendaVirtual\\TiendaVirtual\\Modelo\\DispositivoElectronico.cs",
+              "RelativeDocumentMoniker": "TiendaVirtual\\Modelo\\DispositivoElectronico.cs",
+              "ToolTip": "C:\\Users\\dorsettimartinez\\source\\repos\\TiendaVirtual\\TiendaVirtual\\Modelo\\DispositivoElectronico.cs",
+              "RelativeToolTip": "TiendaVirtual\\Modelo\\DispositivoElectronico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T20:21:51.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Alimento.cs",
+              "DocumentMoniker": "C:\\Users\\dorsettimartinez\\source\\repos\\TiendaVirtual\\TiendaVirtual\\Modelo\\Alimento.cs",
+              "RelativeDocumentMoniker": "TiendaVirtual\\Modelo\\Alimento.cs",
+              "ToolTip": "C:\\Users\\dorsettimartinez\\source\\repos\\TiendaVirtual\\TiendaVirtual\\Modelo\\Alimento.cs",
+              "RelativeToolTip": "TiendaVirtual\\Modelo\\Alimento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T20:20:40.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ropa.cs",
+              "DocumentMoniker": "C:\\Users\\dorsettimartinez\\source\\repos\\TiendaVirtual\\TiendaVirtual\\Modelo\\Ropa.cs",
+              "RelativeDocumentMoniker": "TiendaVirtual\\Modelo\\Ropa.cs",
+              "ToolTip": "C:\\Users\\dorsettimartinez\\source\\repos\\TiendaVirtual\\TiendaVirtual\\Modelo\\Ropa.cs",
+              "RelativeToolTip": "TiendaVirtual\\Modelo\\Ropa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T20:13:56.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\dorsettimartinez\\source\\repos\\TiendaVirtual\\TiendaVirtual\\Modelo\\Producto.cs",
+              "RelativeDocumentMoniker": "TiendaVirtual\\Modelo\\Producto.cs",
+              "ToolTip": "C:\\Users\\dorsettimartinez\\source\\repos\\TiendaVirtual\\TiendaVirtual\\Modelo\\Producto.cs",
+              "RelativeToolTip": "TiendaVirtual\\Modelo\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T19:49:04.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tienda.cs",
+              "DocumentMoniker": "C:\\Users\\dorsettimartinez\\source\\repos\\TiendaVirtual\\TiendaVirtual\\Modelo\\Tienda.cs",
+              "RelativeDocumentMoniker": "TiendaVirtual\\Modelo\\Tienda.cs",
+              "ToolTip": "C:\\Users\\dorsettimartinez\\source\\repos\\TiendaVirtual\\TiendaVirtual\\Modelo\\Tienda.cs",
+              "RelativeToolTip": "TiendaVirtual\\Modelo\\Tienda.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T19:52:35.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dorsettimartinez\\source\\repos\\TiendaVirtual\\TiendaVirtual\\Program.cs",
+              "RelativeDocumentMoniker": "TiendaVirtual\\Program.cs",
+              "ToolTip": "C:\\Users\\dorsettimartinez\\source\\repos\\TiendaVirtual\\TiendaVirtual\\Program.cs",
+              "RelativeToolTip": "TiendaVirtual\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T19:45:06.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

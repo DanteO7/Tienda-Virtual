@@ -1,0 +1,14 @@
+C:\Users\dorsettimartinez\source\repos\TiendaVirtual\TiendaVirtual\bin\Debug\net8.0\TiendaVirtual.exe
+C:\Users\dorsettimartinez\source\repos\TiendaVirtual\TiendaVirtual\bin\Debug\net8.0\TiendaVirtual.deps.json
+C:\Users\dorsettimartinez\source\repos\TiendaVirtual\TiendaVirtual\bin\Debug\net8.0\TiendaVirtual.runtimeconfig.json
+C:\Users\dorsettimartinez\source\repos\TiendaVirtual\TiendaVirtual\bin\Debug\net8.0\TiendaVirtual.dll
+C:\Users\dorsettimartinez\source\repos\TiendaVirtual\TiendaVirtual\bin\Debug\net8.0\TiendaVirtual.pdb
+C:\Users\dorsettimartinez\source\repos\TiendaVirtual\TiendaVirtual\obj\Debug\net8.0\TiendaVirtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dorsettimartinez\source\repos\TiendaVirtual\TiendaVirtual\obj\Debug\net8.0\TiendaVirtual.AssemblyInfoInputs.cache
+C:\Users\dorsettimartinez\source\repos\TiendaVirtual\TiendaVirtual\obj\Debug\net8.0\TiendaVirtual.AssemblyInfo.cs
+C:\Users\dorsettimartinez\source\repos\TiendaVirtual\TiendaVirtual\obj\Debug\net8.0\TiendaVirtual.csproj.CoreCompileInputs.cache
+C:\Users\dorsettimartinez\source\repos\TiendaVirtual\TiendaVirtual\obj\Debug\net8.0\TiendaVirtual.dll
+C:\Users\dorsettimartinez\source\repos\TiendaVirtual\TiendaVirtual\obj\Debug\net8.0\refint\TiendaVirtual.dll
+C:\Users\dorsettimartinez\source\repos\TiendaVirtual\TiendaVirtual\obj\Debug\net8.0\TiendaVirtual.pdb
+C:\Users\dorsettimartinez\source\repos\TiendaVirtual\TiendaVirtual\obj\Debug\net8.0\TiendaVirtual.genruntimeconfig.cache
+C:\Users\dorsettimartinez\source\repos\TiendaVirtual\TiendaVirtual\obj\Debug\net8.0\ref\TiendaVirtual.dll
